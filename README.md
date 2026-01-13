@@ -1,4 +1,4 @@
-# Full-Stack Web Development Course Progress
+# Full-Stack Web Development Course
 
 This repository tracks my learning progress of the complete Full-Stack Web Development Bootcamp by Angela Yu.
 
@@ -38,9 +38,9 @@ This repository tracks my learning progress of the complete Full-Stack Web Devel
 | 32 | [SQL](Projects/Section-32-SQL) | | |
 | 33 | [PostgreSQL](Projects/Section-33-PostgreSQL) | | |
 | 34 | [Capstone Project - Book Notes](Projects/Section-34-Capstone_Project_Book_Notes) | | |
-| 35 | [Authentication and Security - Handling Credentials & Designing a Secure Login](Projects/Section-35-Authentication_and_Security) | | |
+| 35 | [Authentication and Security - Handling Credentials & <br> Designing a Secure Login](Projects/Section-35-Authentication_and_Security) | | |
 | 36 | [React.js](Projects/Section-36-React.js) | | |
-| 37 | [Web3 Decetralised App (DApp) Development with the Internet Computer](Projects/Section-37-Web3_DApp_Development) | | |
+| 37 | [Web3 Decetralised App (DApp) Development with the <br> Internet Computer](Projects/Section-37-Web3_DApp_Development) | | |
 | 38 | [Build Your First Defi (Decentralised Finance) DApp - DBANK](Projects/Section-38-Defi_DBank_DApp) | | |
 | 39 | [Deploying to the ICP LIve Blockchain](Projects/Section-39-Deploying_to_ICP_Live_Blockchain) | | |
 | 40 | [Building DApps on ICP with a React Frontend](Projects/Section-40-Building_DApps_on_ICP) | | |
