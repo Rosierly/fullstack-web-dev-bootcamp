@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Build folder
+dist/
+
+# Notes and general directories
+/NOTES
+/GENERAL
