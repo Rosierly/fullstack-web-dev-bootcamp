@@ -19,6 +19,12 @@
 - [Lorem Ipsum](https://www.lipsum.com/)  
 - [Bacon Ipsum](https://baconipsum.com/)
 
+## Difference Checking Tool
+- [Diffchecker](https://www.diffchecker.com/) 
+
 ---
 
 ## Project : Movie Ranking
+A website to keep track and organize all of your favourite movies.  
+
+![Project Goal](2.4%20Movie%20Ranking%20Project/goal.png)
