@@ -6,7 +6,7 @@
 - Code Files
   - **HTML** (HyperText Markup Language) - Defines the structure of a webpage
   - **CSS** (Cascading Style Sheets) - Adds style and layout to the webpage
-  - **JavaScript** (JS) - Adds functionality and interactivity   
+  - **JavaScript** (JS) - Adds functionality and interactivity
 
 ---
 
