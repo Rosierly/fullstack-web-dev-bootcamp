@@ -4,7 +4,7 @@ This repository tracks my learning progress of the complete Full-Stack Web Devel
 
 | Section | Topic | Project | Status |
 |---------|-------|---------|--------|
-| 1  | [Front-End Web Development]() | No Project | ✅ |
+| 1  | [Front-End Web Development](Projects/Section-1-Front-End_Web_Development) | No Project | ✅ |
 | 2  | [Introduction to HTML](Projects/Section-2-Introduction_to_HTML) | Movie Ranking | ✅ |
 | 3  | [Intermediate HTML](Projects/Section-3-Intermediate_HTML) | | |
 | 4  | [Multi-Page Websites](Projects/Section-4-Multi-Page_Websites) | | |

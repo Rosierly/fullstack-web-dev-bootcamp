@@ -1,7 +1,6 @@
 # Section 1: Front-End Web Development
 
-### Key Points / What I Learned
----
+## Key Points / What I Learned
 - How does the internet actually work?
 - How do websites work?
 - Code Files
@@ -9,7 +8,7 @@
   - **CSS** (Cascading Style Sheets) - Adds style and layout to the webpage
   - **JavaScript** (JS) - Adds functionality and interactivity   
 
-
-### Project
 ---
+
+## Project
 No project for this section.
