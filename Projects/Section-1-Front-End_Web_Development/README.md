@@ -8,6 +8,9 @@
   - **CSS** (Cascading Style Sheets) - Adds style and layout to the webpage
   - **JavaScript** (JS) - Adds functionality and interactivity
 
+## DNS & IP Lookup
+- [DNS Lookup](https://nslookup.io)  
+
 ---
 
 ## Project
