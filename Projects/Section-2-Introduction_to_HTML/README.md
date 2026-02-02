@@ -27,4 +27,4 @@
 ## Project : Movie Ranking
 A website to keep track and organize all of your favourite movies.  
 
-![Project Goal](2.4%20Movie%20Ranking%20Project/goal.png)
+<img src="2.4 Movie Ranking Project/goal.png" alt="Project Goal" width="600" height="auto">
