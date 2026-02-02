@@ -3,14 +3,41 @@
 ## Key Points / What I Learned
 
 - **HTML** - HyperText Markup Language in detail
-- How do you do **markup** with HTML? -> using HTML **tags***
+
+- How do you do markup with HTML? -> using HTML tags
+
 - Difference between a **tag** (`<tag>`) and an **element** 
-- **Heading elements**: `<h1>` through `<h6>`  
-- Importance of **indentation** in HTML for readability  
-- **Paragraph element**: `<p>`  
-- **Self-closing (void) elements**:
-  - Horizontal Rule: `<hr />`  
-  - Line Break: `<br />`
+  ```html
+  <!-- The tag refers to what's inside an angle bracket `<>`. -->
+  <h1>
+  <!-- The element refers to the entire line/structure, including content and both opening and closing tags. --> 
+  <h1>Hello World</h1>
+  ```
+
+- **The Heading element**: `<h1>` through `<h6>`
+  ```html
+  <h1>Title</h1>
+  <h2>Subtitle</h2>
+  ```  
+- Importance of indentation in HTML for readability
+
+- **The Paragraph element: `<p>`**
+  ```html
+  <p>This is a paragraph.</p>
+  ```
+
+- Self-closing (void) elements:
+  - **Horizontal Rule element: `<hr />`**
+    ```html
+    <hr />  <!-- Adds a straight line -->
+    ```
+  - **Line Break element: `<br />`**
+    ```html
+    <p>
+    First line<br />
+    Second line<br />
+    </p>
+    ```
 
 ## Reference Documentation
 - [MDN Web Docs – HTML Section Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements)  
