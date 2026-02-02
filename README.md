@@ -6,8 +6,8 @@ This repository tracks my learning progress of the complete Full-Stack Web Devel
 |---------|-------|---------|--------|
 | 1  | [Front-End Web Development](Projects/Section-1-Front-End_Web_Development) | No Project | ✅ |
 | 2  | [Introduction to HTML](Projects/Section-2-Introduction_to_HTML) | Movie Ranking | ✅ |
-| 3  | [Intermediate HTML](Projects/Section-3-Intermediate_HTML) | | |
-| 4  | [Multi-Page Websites](Projects/Section-4-Multi-Page_Websites) | | |
+| 3  | [Intermediate HTML](Projects/Section-3-Intermediate_HTML) | Birthday Invite | ✅ |
+| 4  | [Multi-Page Websites](Projects/Section-4-Multi-Page_Websites) | Portfolio Website | ✅ |
 | 5  | [Introduction to CSS](Projects/Section-5-Introduction_to_CSS) | | |
 | 6  | [CSS Properties](Projects/Section-6-CSS_Properties) | | |
 | 7  | [Intermediate CSS](Projects/Section-7-Intermediate_CSS) | | |
