@@ -101,4 +101,4 @@ A simple website to showcase my projects so far, including links to a movie rank
 ## Capstone Project 1: Online Resume
 
 
-<img src="./Capstone Project 1 - Online Resume/final_result.png" alt="Final Resutl" width="600" height="auto">
+<img src="./Capstone Project 1 - Online Resume/images/final_result.png" alt="Final Resutl" width="600" height="auto">
