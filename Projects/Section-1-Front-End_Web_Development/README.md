@@ -1,5 +1,9 @@
 # Section 1: Front-End Web Development
 
+## Project
+No project for this section.
+
+
 ## Key Points / What I Learned
 - How does the internet actually work?
 - How do websites work?
@@ -10,7 +14,3 @@
 
 ## DNS & IP Lookup
 - [DNS Lookup](https://nslookup.io)  
-
-
-## Project
-No project for this section.

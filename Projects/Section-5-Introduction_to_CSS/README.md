@@ -1,5 +1,11 @@
 # Section 5: Introduction to CSS
 
+## Project : Colour Vocab Website 
+A basic website to learn colors in Spanish, displaying color names with matching colored boxes.
+
+<img src="./5.4+Color+Vocab+Project/result.png" alt="Project Goal" width="600" height="auto">
+
+
 ## Key Points / What I Learned
 
 - **How to add CSS** (Cascading Style Sheets) - 3 Ways
@@ -107,9 +113,3 @@
 
 ## List Element - `value` attribute in orderded lists
 - [MDN Web Docs – List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)
-
-
-## Project : Colour Vocab Website 
-A basic website to learn colors in Spanish, displaying color names with matching colored boxes.
-
-<img src="./5.4+Color+Vocab+Project/result.png" alt="Project Goal" width="600" height="auto">

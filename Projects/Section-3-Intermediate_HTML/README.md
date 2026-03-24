@@ -1,5 +1,11 @@
 # Section 3: Intermediate HTML
 
+## Project : Birthday Invite 
+A retro 90s-style website designed to help you invite guests to your next party.
+
+<img src="3.4 Birthday Invite Project/goal.png" alt="Project Goal" width="500" height="auto">
+
+
 ## Key Points / What I Learned
 
 - The List Elements
@@ -59,9 +65,3 @@
 
 ## Screen Reader Simulator - Chrome Browser Extension
 - [Silktide](https://silktide.com/toolbar/screen-reader-simulator/) 
-
-
-## Project : Birthday Invite 
-A retro 90s-style website designed to help you invite guests to your next party.
-
-<img src="3.4 Birthday Invite Project/goal.png" alt="Project Goal" width="500" height="auto">

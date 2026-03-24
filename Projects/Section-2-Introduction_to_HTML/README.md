@@ -1,5 +1,11 @@
 # Section 2: Introduction to HTML
 
+## Project : Movie Ranking
+A website to keep track and organize all of your favourite movies.  
+
+<img src="2.4 Movie Ranking Project/goal.png" alt="Project Goal" width="600" height="auto">
+
+
 ## Key Points / What I Learned
 
 - **HTML** - HyperText Markup Language in detail
@@ -48,9 +54,3 @@
 
 ## Difference Checking Tool
 - [Diffchecker](https://www.diffchecker.com/) 
-
-
-## Project : Movie Ranking
-A website to keep track and organize all of your favourite movies.  
-
-<img src="2.4 Movie Ranking Project/goal.png" alt="Project Goal" width="600" height="auto">
