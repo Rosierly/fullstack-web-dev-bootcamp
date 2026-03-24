@@ -91,7 +91,6 @@
 ## Footer Element
 - [MDN Web Docs – The Footer Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/footer)
 
----
 
 ## Project : Portfolio Project 
 A simple website to showcase my projects so far, including links to a movie ranking page and a birthday invite project page.
@@ -99,6 +98,6 @@ A simple website to showcase my projects so far, including links to a movie rank
 <img src="./4.3 HTML Porfolio Project/goal.png" alt="Project Goal" width="600" height="auto">
 
 ## Capstone Project 1: Online Resume
-
+A simple multi-page resume website built using HTML with sample content for practice.
 
 <img src="./Capstone Project 1 - Online Resume/images/final_result.png" alt="Final Resutl" width="600" height="auto">

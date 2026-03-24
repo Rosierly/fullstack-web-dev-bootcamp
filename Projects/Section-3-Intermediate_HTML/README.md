@@ -60,7 +60,6 @@
 ## Screen Reader Simulator - Chrome Browser Extension
 - [Silktide](https://silktide.com/toolbar/screen-reader-simulator/) 
 
----
 
 ## Project : Birthday Invite 
 A retro 90s-style website designed to help you invite guests to your next party.

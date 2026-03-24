@@ -49,7 +49,6 @@
 ## Difference Checking Tool
 - [Diffchecker](https://www.diffchecker.com/) 
 
----
 
 ## Project : Movie Ranking
 A website to keep track and organize all of your favourite movies.  
