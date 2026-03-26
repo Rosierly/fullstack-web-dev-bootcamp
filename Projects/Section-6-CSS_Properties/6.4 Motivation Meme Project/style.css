@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+div {
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    margin: 50px auto; /* 50px top & bottom, automatically centers left & right */
+}
+
+img {
+    border: 5px solid white;
+    width: 100%; /* makes the image stretch to take up the full width of its parent element <div> */
+    max-width: 1000px; /* prevents it from getting too big on large screens */
+}
