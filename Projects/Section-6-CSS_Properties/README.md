@@ -1,7 +1,7 @@
 # Section 6: CSS Properties
 
 ## Project : Motivational Poster Project
-A motivational post with image, headline, and text.
+A motivational poster website with image, headline, and text.
 <img src="./6.4 Motivation Meme Project/goal.png" alt="Project Goal" width="900" height="auto">
 
 
