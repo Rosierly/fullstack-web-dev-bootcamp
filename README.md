@@ -10,7 +10,7 @@ This repository tracks my learning progress of the complete Full-Stack Web Devel
 | 4  | [Multi-Page Websites](Projects/Section-4-Multi-Page_Websites) | Portfolio Website & Online Resume | ✅ |
 | 5  | [Introduction to CSS](Projects/Section-5-Introduction_to_CSS) | Colour Vocab Website | ✅ |
 | 6  | [CSS Properties](Projects/Section-6-CSS_Properties) | Motivational Poster Project | ✅ |
-| 7  | [Intermediate CSS](Projects/Section-7-Intermediate_CSS) | | |
+| 7  | [Intermediate CSS](Projects/Section-7-Intermediate_CSS) | Flag Project | ✅ |
 | 8  | [Advanced CSS](Projects/Section-8-Advanced_CSS) | | |
 | 9  | [Flexbox](Projects/Section-9-Flexbox) | | |
 | 10 | [Grid](Projects/Section-10-Grid) | | |
