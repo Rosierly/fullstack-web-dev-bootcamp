@@ -3,13 +3,12 @@
 ## Project : Flag Project
 Recreated the national flag of Laos using pure CSS.
 
-<img src="./7.3 CSS Flag Project/goal.png" alt="Project Goal" width="600" height="auto">
+<img src="./7.3 CSS Flag Project/goal.png" alt="Project Goal" width="700" height="auto">
 
 
 ## Key Points / What I Learned
 
 - **CSS Cascade** - Importance Order
-
     1) **Position**
         ```css
         li {
@@ -49,9 +48,9 @@ Recreated the national flag of Laos using pure CSS.
             color: green !important; /* highest priority */
         ```
 
-    <div align="center">
+    <p align="center">
         <img src="./7.0+CSS+Cascade/css_cascade.png" alt="CSS Importance Order" width="600" />
-    </div>
+    </p>
 
 - **Combining CSS Selectors** - Different Ways
     - **Grouping Selector** = Apply to direct child of left side
