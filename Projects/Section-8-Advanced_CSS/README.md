@@ -7,10 +7,10 @@ A simple responsive agency website that adapts to desktop and mobile screens.
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="./8.4 Web Design Agency Project/assets/images/goal_desktop_version.png" 
        alt="Project Goal - Desktop Version" 
-       width="570">
+       width="600">
   <img src="./8.4 Web Design Agency Project/assets/images/goal_mobile_version.png" 
        alt="Project Goal - Mobile Version" 
-       width="200">
+       width="210">
 </div>
 
 
