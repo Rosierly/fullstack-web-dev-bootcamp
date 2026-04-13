@@ -27,7 +27,7 @@ A simple responsive agency website that adapts to desktop and mobile screens.
         /* Same line, size = content (cannot change width and height) */
         h2 {display: inline;}
         ```
-    - **Inline-Block**
+    - **Inline-Block**  
         ```css
         /* Same line + can set width/height */
         h2 {display: inline-block;}
@@ -37,6 +37,9 @@ A simple responsive agency website that adapts to desktop and mobile screens.
         /* Hides element (removed from layout) */
         h2 {display: none;}
         ```
+        *<u>Note about width</u>*  
+        `width` only works on block and inline-block elements (not inline).  
+        `inline-block` elements will sit side by side by default as long as there is enough space for their content (set width like 45% to control how much space they take).
 
 - **Span Element**  
     It's a small inline container used to style part of text.
