@@ -4,7 +4,7 @@
 A responsive Flexbox pricing table with three plans, built to adapt smoothly across screen sizes.
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="./9.4+Flexbox+Pricing+Table+Project/project-result-large.png.png"
+  <img src="./9.4+Flexbox+Pricing+Table+Project/project-result-large.png"
        alt="Project Goal - Large Version" 
        width="616">
   <img src="./9.4+Flexbox+Pricing+Table+Project/project-result-small.png"
