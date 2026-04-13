@@ -12,7 +12,7 @@ This repository tracks my learning progress of the complete Full-Stack Web Devel
 | 6  | [CSS Properties](Projects/Section-6-CSS_Properties) | Motivational Poster Project | ✅ |
 | 7  | [Intermediate CSS](Projects/Section-7-Intermediate_CSS) | Flag Project | ✅ |
 | 8  | [Advanced CSS](Projects/Section-8-Advanced_CSS) | Web Design Agency Project | ✅ |
-| 9  | [Flexbox](Projects/Section-9-Flexbox) | | |
+| 9  | [Flexbox](Projects/Section-9-Flexbox) | Pricing Table Project | ✅ |
 | 10 | [Grid](Projects/Section-10-Grid) | | |
 | 11 | [Bootstrap](Projects/Section-11-Bootstrap) | | |
 | 12 | [Web Design School - Create a Website that People Love](Projects/Section-12-Web_Design_School) | | |
