@@ -1,4 +1,4 @@
-# Section 8: Flexbox
+# Section 9: Flexbox
 
 ## Project : Pricing Table Project
 A responsive Flexbox pricing table with three plans, built to adapt smoothly across screen sizes.
